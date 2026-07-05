@@ -23,3 +23,6 @@ A fun memory game built using HTML, CSS, and JavaScript.
 
 ## Author
 Arpit Srivastava
+
+## 🚀 Live Demo
+https://arpitsri9662-collab.github.io/Simon_Game/
